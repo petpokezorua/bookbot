@@ -1,3 +1,2 @@
 # bookbot
-Boot.dev - Build a Bookbot Project
-BookBot is my first project!
+First project made within the backend course from boot.dev
